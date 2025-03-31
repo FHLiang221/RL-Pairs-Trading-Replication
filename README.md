@@ -70,6 +70,7 @@ Current progress:
 ```bash
 git clone https://github.com/FHLiang221/RL-Pairs-Trading-Replication.git
 cd your-repository-name
+conda activate your-conda-env
 pip install -r requirements.txt
 ```
 

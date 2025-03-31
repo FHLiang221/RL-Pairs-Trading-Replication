@@ -71,3 +71,13 @@ Current progress:
 git clone https://github.com/FHLiang221/RL-Pairs-Trading-Replication.git
 cd your-repository-name
 pip install -r requirements.txt
+```
+
+### Data Collection
+```bash
+python src/data_collection.py
+```
+
+### Analysis
+- Run All Cells on exploratory_data_analysis.ipynb
+- Run All Cells on BackTest.ipynb

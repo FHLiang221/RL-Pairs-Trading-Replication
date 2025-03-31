@@ -79,5 +79,5 @@ python src/data_collection.py
 ```
 
 ### Analysis
-- Run All Cells on exploratory_data_analysis.ipynb
-- Run All Cells on BackTest.ipynb
+- Run All Cells in exploratory_data_analysis.ipynb
+- Run All Cells in BackTest.ipynb

@@ -46,6 +46,7 @@ They designed:
 This project uses BTC-EUR and BTC-GBP trading data at 1-minute intervals from Binance. The data spans from October 2023 to December 2023, with:
 - Formation period: October-November 2023
 - Testing period: December 2023
+- I used BTCUSDT and ETHUSDT since Binance.us doesn't have BTC-EUR and BTC-GBP (same period used)
 
 ## Project Status
 
